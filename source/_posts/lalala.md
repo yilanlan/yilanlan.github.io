@@ -11,4 +11,4 @@ tags:
 hexo new post lalala
 ```
 
-
+{% asset_img 花店副本.jpg This is pic %}
